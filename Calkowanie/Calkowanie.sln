@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Calkowanie", "Calkowanie\Calkowanie.vcxproj", "{DCD276B0-8394-4E88-A930-1251066FF34F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Monte Carlo", "Monte Carlo\Monte Carlo.vcxproj", "{D7E1199A-4463-48D7-9970-86BC5632008C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCD276B0-8394-4E88-A930-1251066FF34F}.Debug|x64.ActiveCfg = Debug|x64
+		{DCD276B0-8394-4E88-A930-1251066FF34F}.Debug|x64.Build.0 = Debug|x64
+		{DCD276B0-8394-4E88-A930-1251066FF34F}.Debug|x86.ActiveCfg = Debug|Win32
+		{DCD276B0-8394-4E88-A930-1251066FF34F}.Debug|x86.Build.0 = Debug|Win32
+		{DCD276B0-8394-4E88-A930-1251066FF34F}.Release|x64.ActiveCfg = Release|x64
+		{DCD276B0-8394-4E88-A930-1251066FF34F}.Release|x64.Build.0 = Release|x64
+		{DCD276B0-8394-4E88-A930-1251066FF34F}.Release|x86.ActiveCfg = Release|Win32
+		{DCD276B0-8394-4E88-A930-1251066FF34F}.Release|x86.Build.0 = Release|Win32
+		{D7E1199A-4463-48D7-9970-86BC5632008C}.Debug|x64.ActiveCfg = Debug|x64
+		{D7E1199A-4463-48D7-9970-86BC5632008C}.Debug|x64.Build.0 = Debug|x64
+		{D7E1199A-4463-48D7-9970-86BC5632008C}.Debug|x86.ActiveCfg = Debug|Win32
+		{D7E1199A-4463-48D7-9970-86BC5632008C}.Debug|x86.Build.0 = Debug|Win32
+		{D7E1199A-4463-48D7-9970-86BC5632008C}.Release|x64.ActiveCfg = Release|x64
+		{D7E1199A-4463-48D7-9970-86BC5632008C}.Release|x64.Build.0 = Release|x64
+		{D7E1199A-4463-48D7-9970-86BC5632008C}.Release|x86.ActiveCfg = Release|Win32
+		{D7E1199A-4463-48D7-9970-86BC5632008C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
